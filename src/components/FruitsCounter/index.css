@@ -1,0 +1,12 @@
+.yellow {
+  background-color: #ffd569;
+  height: 100vh;
+}
+.white {
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+.size {
+  height: 40px;
+  width: 40px;
+}
